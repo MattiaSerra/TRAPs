@@ -1,5 +1,5 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%  Compute Transient Attracting Profiles (TRAPs) [TRAPs are synonim of Attracting Objective Eulerian Coherent Structures (OECSs)]
+%  Compute Transient Attracting Profiles (TRAPs) [TRAP is a synonym of Attracting Objective Eulerian Coherent Structure (OECS)]
 %                                                                   %
 %                 Mattia Serra (Harvard University)                    %                               
 %                   https://www.mattiaserra.com/
