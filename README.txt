@@ -42,6 +42,6 @@ page and check if the version you downloaded is up to date.
 
 
 Maintained by Mattia Serra,
-serram at seas dot haravrd dot edu
+serram at seas dot harvard dot edu
 https://www.mattiaserra.com/
 July 8, 2020.
